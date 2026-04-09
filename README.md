@@ -1,4 +1,4 @@
-# Hi there, I'm Tharusha Kalhara 👋
+# Hi there, I'm Tharusha Karunasinghe 👋
 
 I am a final-year Computer Engineering undergraduate specializing in Artificial Intelligence, Machine Learning, and Computer Vision. I am passionate about building end-to-end intelligent systems, from edge devices to full-stack applications.
 
